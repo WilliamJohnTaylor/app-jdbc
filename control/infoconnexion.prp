@@ -1,0 +1,5 @@
+# Ne pas laisser d'espaces � la fin des lignes
+driver = oracle.jdbc.driver.OracleDriver
+url = jdbc:oracle:thin:@oracleadudb1.bdeb.qc.ca:1521:gdna10
+identifiant = UG200E15
+motdepasse = U7ufrt
